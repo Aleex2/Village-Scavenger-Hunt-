@@ -1,0 +1,72 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 18.03.2010 17:31:52
+
+newmtl baxter_cofano_mtl_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8314 0.6549 0.3176
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl baxter_cofano_mtl_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka dcmap_baxter_cofano_1.jpg
+	map_Kd dcmap_baxter_cofano_1.jpg
+	map_bump -bm 0.3000 dcmap_baxter_cofano_2.jpg
+	bump -bm 0.3000 dcmap_baxter_cofano_2.jpg
+
+newmtl baxter_cofano_mtl_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka dcmap_baxter_cofano_1.jpg
+	map_Kd dcmap_baxter_cofano_1.jpg
+	map_bump -bm 0.3000 dcmap_baxter_cofano_2.jpg
+	bump -bm 0.3000 dcmap_baxter_cofano_2.jpg
+
+newmtl baxter_cofano_mtl_4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 0.9569 0.9098
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka dcmap_baxter_cofano_3.jpg
+	map_Kd dcmap_baxter_cofano_3.jpg
+
+newmtl baxter_cofano_mtl_5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8314 0.6549 0.3176
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000

@@ -1,0 +1,18 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.12.2018 22:15:09
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka G:\Ram\3d\models for sale\pillows\textures\TexturesCom_FabricPlain0020_1_seamless_S_bump.jpg
+	map_Kd G:\Ram\3d\models for sale\pillows\textures\TexturesCom_FabricPlain0020_1_seamless_S_bump.jpg
+	map_bump G:\Ram\3d\models for sale\pillows\textures\TexturesCom_FabricPlain0020_1_seamless_S_bump.jpg
+	bump G:\Ram\3d\models for sale\pillows\textures\TexturesCom_FabricPlain0020_1_seamless_S_bump.jpg
